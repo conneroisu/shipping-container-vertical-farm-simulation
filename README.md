@@ -11,4 +11,6 @@ This is the repository housing the simulation of a vertical farm inside of a shi
 
 ## Hardware Requirements 
 
+# Onboarding
+Wanting to get on board? Welcome aboard!
 # Conclusion
